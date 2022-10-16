@@ -1,2 +1,4 @@
 # ML-DL-course
-employs ML &amp; DL algorithms to different Application/Projects
+employs ML and DL algorithms to different Application/Projects
+
+# Here you can find 6 projects of different datasets with applying deep learning classifications techniques.
